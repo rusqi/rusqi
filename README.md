@@ -2,7 +2,7 @@
 
 <a href="[https://www.linkedin.com/in/muhammadrusqi/]"></a>
 # About myself
-I'm a proactive mathematics student with a passion for data analysis and machine learning. 
+I'm a proactive fresh graduates mathematics with a passion for data analysis and machine learning. 
 As the founder of Radiance Visual, I've managed 30+ successful video projects. 
 My leadership experience in student organizations and award-winning short film events has honed my project management skills and teamwork. 
 Skilled in Python, JavaScript, and Adobe Creative Suite, I'm always open to collaborations and innovative projects. Let's connect!
