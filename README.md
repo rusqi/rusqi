@@ -1,6 +1,6 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
-### Data Analyst | Mathematics Graduate | SQL • Python • Excel • Statistics
+### Data Analyst | Mathematics Graduate | SQL • Python • Excel • Machine Learning
 I'm a Mathematics graduate transitioning into Data Analytics, with a background
 in quantitative analysis, financial reporting, operations, and machine learning.
 
