@@ -1,11 +1,44 @@
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="21">
 
+### Data Analyst | Mathematics Graduate | SQL • Python • Excel • Statistics
+I'm a Mathematics graduate transitioning into Data Analytics, with a background
+in quantitative analysis, financial reporting, operations, and machine learning.
+
+I enjoy turning raw data into structured analysis, meaningful insights, and
+decision-ready reports.
+
 <a href="[https://www.linkedin.com/in/muhammadrusqi/]"></a>
-# About myself
-I'm a proactive fresh graduates mathematics with a passion for data analysis and machine learning. 
-As the founder of Radiance Visual, I've managed 30+ successful video projects. 
-My leadership experience in student organizations and award-winning short film events has honed my project management skills and teamwork. 
-Skilled in Python, JavaScript, and Adobe Creative Suite, I'm always open to collaborations and innovative projects. Let's connect!
+## 🔎 About Me
+
+- 🎓 B.Sc. Mathematics — Universitas Syiah Kuala
+- 📊 Focus: Data Analytics, Business Analytics & Finance Analytics
+- 🐍 Python for data analysis and statistical modeling
+- 🗃️ SQL for data querying and analysis
+- 📈 Microsoft Excel for reporting and financial analysis
+- 📐 Statistics, forecasting & quantitative analysis
+- 🤖 Machine Learning background through Bangkit Academy
+- 💼 Experience in finance, operations and customer support
+
+## 📊 Featured Projects
+
+### 🚲 Bike Sharing Data Analysis Dashboard
+Python • Pandas • EDA • Data Visualization • Streamlit
+
+Analysis and interactive dashboard built using the Dicoding Bike Sharing
+Dataset to explore rental patterns and business insights.
+
+### 🌧️ Flood Risk Analytics
+Python • Statistics • Forecasting • Extreme Value Theory • VaR
+
+Undergraduate research applying rainfall forecasting and extreme-value
+analysis to estimate flood risk.
+
+## 🛠️ Technical Skills
+
+**Data:** SQL, Python, Pandas, Excel, Statistics, EDA  
+**Analytics:** Data Cleaning, Data Visualization, Forecasting, Financial Analysis  
+**Machine Learning:** Scikit-learn, TensorFlow, Model Evaluation  
+**Tools:** Git, GitHub, Streamlit, Trello
 
 ### Github Statistic
 <p align="left">
