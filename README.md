@@ -6,7 +6,6 @@ in quantitative analysis, financial reporting, operations, and machine learning.
 I enjoy turning raw data into structured analysis, meaningful insights, and
 decision-ready reports.
 
-<a href="[https://www.linkedin.com/in/muhammadrusqi/]"></a>
 ## 🔎 About Me
 
 - 🎓 B.Sc. Mathematics — Universitas Syiah Kuala
