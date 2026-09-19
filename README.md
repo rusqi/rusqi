@@ -17,20 +17,48 @@ decision-ready reports.
 - 🤖 Machine Learning background through Bangkit Academy
 - 💼 Experience in finance, operations and customer support
 
-## 📊 Featured Projects
+📊 Featured Projects
+🌧️ Flood Risk Analysis & Rainfall Forecasting
 
-### 🚲 Bike Sharing Data Analysis Dashboard
-Python • Pandas • EDA • Data Visualization • Streamlit
-
-Analysis and interactive dashboard built using the Dicoding Bike Sharing
-Dataset to explore rental patterns and business insights.
-
-### 🌧️ Flood Risk Analytics
 Python • Statistics • Forecasting • Extreme Value Theory • VaR
 
-Undergraduate research applying rainfall forecasting and extreme-value
-analysis to estimate flood risk.
+Undergraduate research analyzing daily rainfall in Aceh Besar, Indonesia using 1,096 observations from 2022–2024.
 
+The project combines:
+
+Extreme Learning Machine (ELM) for rainfall forecasting
+Extreme Value Theory (EVT)
+GEV and GPD distribution modeling
+Kolmogorov–Smirnov goodness-of-fit testing
+Value at Risk (VaR) for quantitative rainfall risk estimation
+
+View Project → <a href="https://github.com/rusqi/SQL_Project_Data_Job_Analysis">
+
+🗃️ Data Analyst Job Market Analysis with SQL
+
+SQL • PostgreSQL • Data Analysis • CTEs • Joins • Aggregation
+
+A SQL-based analysis of Data Analyst job postings focused on understanding salary, skill demand, and the relationship between technical skills and job-market opportunities.
+
+The analysis explores:
+
+Highest-paying Data Analyst roles
+Skills appearing in high-paying positions
+Most in-demand Data Analyst skills
+Average salary associated with different skills
+Skills combining meaningful demand and salary
+
+Key tools and concepts include PostgreSQL, joins, CTEs, aggregation, filtering, and business-oriented SQL analysis.
+
+View Project → <a href="https://github.com/rusqi/SQL_Project_Data_Job_Analysis">
+
+🚲 Bike Sharing Data Analysis Dashboard
+
+Python • Pandas • EDA • Data Visualization • Streamlit
+
+Exploratory data analysis and an interactive dashboard built using the Dicoding Bike Sharing Dataset to identify rental patterns and translate them into business-oriented insights.
+
+View Project → <a href="https://github.com/rusqi/Bike-Sharing-Data-Analysis">
 ## 🛠️ Technical Skills
 
 **Data:** SQL, Python, Pandas, Excel, Statistics, EDA  
