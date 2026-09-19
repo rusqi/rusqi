@@ -32,7 +32,7 @@ GEV and GPD distribution modeling
 Kolmogorov–Smirnov goodness-of-fit testing
 Value at Risk (VaR) for quantitative rainfall risk estimation
 
-View Project → <a href="https://github.com/rusqi/SQL_Project_Data_Job_Analysis">
+**[View Project →](https://github.com/rusqi/Flood-Risk-Analysis)**
 
 🗃️ Data Analyst Job Market Analysis with SQL
 
@@ -50,7 +50,7 @@ Skills combining meaningful demand and salary
 
 Key tools and concepts include PostgreSQL, joins, CTEs, aggregation, filtering, and business-oriented SQL analysis.
 
-View Project → <a href="https://github.com/rusqi/SQL_Project_Data_Job_Analysis">
+**[View Project →](https://github.com/rusqi/SQL_Project_Data_Job_Analysis)**
 
 🚲 Bike Sharing Data Analysis Dashboard
 
@@ -58,7 +58,7 @@ Python • Pandas • EDA • Data Visualization • Streamlit
 
 Exploratory data analysis and an interactive dashboard built using the Dicoding Bike Sharing Dataset to identify rental patterns and translate them into business-oriented insights.
 
-View Project → <a href="https://github.com/rusqi/Bike-Sharing-Data-Analysis">
+**[View Project →](https://github.com/rusqi/Bike-Sharing-Data-Analysis)**
 ## 🛠️ Technical Skills
 
 **Data:** SQL, Python, Pandas, Excel, Statistics, EDA  
